@@ -1,7 +1,7 @@
 <!--Copyright © Microsoft Corporation. All rights reserved.
   适用于[License](https://github.com/microsoft/AI-System/blob/main/LICENSE)版权许可-->
 
-# 第2章 神经网络基础
+# 神经网络基础
   
 在本章中，我们将会简要叙述当前无论在学术界还是工业界都非常热门的深度学习的基础 —— 神经网络 —— 的基本知识。
 
